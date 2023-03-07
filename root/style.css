@@ -12,11 +12,11 @@ ul {
 }
 
 li {
-  margin: 0 100px; border: 2px;
+  margin: 0 500px; border: 2px;
 }
 
 a {
   display: block; 
   color: #D4FF00; 
-  text-decoration: bold; 
+  text-decoration: underline; 
 }
