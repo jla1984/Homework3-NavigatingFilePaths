@@ -1,22 +1,22 @@
 nav {
-  background-color: #333; /* set background color */
-  padding: 10px; /* add some padding to the navigation bar */
+  background-color: #004661; 
+  padding: 10px; 
 }
 
 ul {
-  list-style-type: none; /* remove bullets from list */
+  list-style-type: none; 
   margin: 0;
   padding: 0;
-  display: flex; /* set display to flex to make items in the list horizontally aligned */
-  justify-content: center; /* center the list items horizontally */
+  display: flex; 
+  justify-content: center; 
 }
 
 li {
-  margin: 0 10px; /* add some margin between list items */
+  margin: 0 10px; 
 }
 
 a {
-  display: block; /* set display to block to make the entire list item clickable */
-  color: white; /* set text color */
-  text-decoration: none; /* remove underline */
+  display: block; 
+  color: white; 
+  text-decoration: none; 
 }
