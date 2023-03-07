@@ -27,11 +27,6 @@ a:hover {
   color: black;
 }
 
-a:visited {
-    display: block;
-    color: purple;
-}
-
 p {
   text-align: center;
   margin-top: 1in;
